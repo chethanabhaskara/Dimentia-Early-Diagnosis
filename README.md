@@ -1,6 +1,6 @@
 # Early Diagnosis of Dementia 
 
-Directory Organization: 
+##### Directory Organization: 
 
 The dataset used in our project are contained in two csv files - 
 1. oasis_cross-sectional.csv - Data from Cross sectional MRI scans 
@@ -11,7 +11,7 @@ The code repository contains analytics and machine learning algorithms developed
 2. longitudinal-data-algorithms.ipynb - Machine learning classifiers modeled using Longitudinal MRI Scans
 3. DNN_tensorflow.ipynb - A Deep Neural network modeled using both the datasets combined. 
 
-Running instructions 
+##### Running instructions:
 Each of the files are independently running files and run using the link to their Google Colab page. The link can be found at the beginning of the ipynb file. 
 
 ### Dataset Acknowledgements
@@ -21,5 +21,5 @@ OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csern
 OASIS: Longitudinal: Principal Investigators: D. Marcus, R, Buckner, J. Csernansky, J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382 
 
 ### References 
-[1] OASIS: Cross-Sectional: https://doi.org/10.1162/jocn.2007.19.9.1498
+[1] OASIS: Cross-Sectional: https://doi.org/10.1162/jocn.2007.19.9.1498  
 [2] OASIS: Longitudinal: https://doi.org/10.1162/jocn.2009.21407
