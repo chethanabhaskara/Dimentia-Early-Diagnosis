@@ -14,12 +14,12 @@ The code repository contains analytics and machine learning algorithms developed
 Running instructions 
 Each of the files are independently running files and run using the link to their Google Colab page. The link can be found at the beginning of the ipynb file. 
 
-# Dataset Acknowledgements
+### Dataset Acknowledgements
 Data were provided [in part] by OASIS Brains Project available on kaggle.com
 
 OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csernansky J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382. 
 OASIS: Longitudinal: Principal Investigators: D. Marcus, R, Buckner, J. Csernansky, J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382 
 
-# References 
+### References 
 [1] OASIS: Cross-Sectional: https://doi.org/10.1162/jocn.2007.19.9.1498
 [2] OASIS: Longitudinal: https://doi.org/10.1162/jocn.2009.21407
