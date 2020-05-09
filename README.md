@@ -12,7 +12,7 @@ The code repository contains analytics and machine learning algorithms developed
 3. DNN_tensorflow.ipynb - A Deep Neural network modeled using both the datasets combined. 
 
 ##### Running instructions:
-Each of the files are independently running files and run using the link to their Google Colab page. The link can be found at the beginning of the ipynb file. 
+Each of the files are independently running files and run using the link to their Google Colab page. The link can be found at the beginning of the ipynb file. In order to run the files, on Colab, please sign into your USC account. 
 
 ### Dataset Acknowledgements
 Data were provided [in part] by OASIS Brains Project available on kaggle.com  
