@@ -1,5 +1,7 @@
 # Early diagnosis of Alzheimer’s and Dementia
 
+**Authors:** Anisha Jagadeesh Prasad (ajagadee@usc.edu), Chethana Bhaskara (cbhaskar@usc.edu), Gyanesh Mittal (gyaneshm@usc.edu), Karishma Chadha (karishmc@usc.edu)
+
 #### Directory Organization: 
 
 The dataset used in our project are contained in two csv files - 
