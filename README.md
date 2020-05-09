@@ -1,4 +1,4 @@
-# Early Diagnosis of Dementia 
+# Early diagnosis of Alzheimer’s and Dementia
 
 ##### Directory Organization: 
 
